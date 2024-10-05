@@ -1,7 +1,8 @@
 # phys2212L
 Code for graphing for PHYS 2212L (Physics II Laboratory) @ Kennesaw State University
 
-# Instructions
+# Experiment 7: RLC Circuits
+## Instructions
 
 Click below to launch the repository in jupyter lab: 
 
